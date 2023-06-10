@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2023-06-10T11:57:31.830Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.3.7 Chrome/112.0.5615.204 Electron/24.5.0 Safari/537.36" etag="rwG7j4sZ_vc8Wo9jB_tc" version="21.3.7" type="device">
+<mxfile host="app.diagrams.net" modified="2023-06-10T16:07:54.134Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.41" etag="O-qt6Gq5XP617X638cJ9" version="21.3.8" type="github">
   <diagram name="第 1 页" id="0wyQip5AG9XkoKfpY7_L">
-    <mxGraphModel dx="1238" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2607" dy="1505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,7 +72,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="F6DLIAPsIgunCA8W94Jn-27" value="数据持久化（MySQL、Redis、S3）" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;sketch=1;curveFitting=1;jiggle=2;shadow=1;" parent="1" vertex="1">
+        <mxCell id="F6DLIAPsIgunCA8W94Jn-27" value="数据持久化（MySQL、Redis、S3）" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;sketch=1;curveFitting=1;jiggle=2;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="182.5" y="1040" width="315" height="80" as="geometry" />
         </mxCell>
         <mxCell id="F6DLIAPsIgunCA8W94Jn-28" value="&lt;b&gt;单元化 - 西部&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;" parent="1" vertex="1">
@@ -135,7 +135,7 @@
         <mxCell id="F6DLIAPsIgunCA8W94Jn-48" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;业务网关（鉴权、长链接转换、协议转换、报文编码、分流等）&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="240" width="1120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="F6DLIAPsIgunCA8W94Jn-50" value="数据持久化（MySQL、Redis、S3）" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;sketch=1;curveFitting=1;jiggle=2;shadow=1;" parent="1" vertex="1">
+        <mxCell id="F6DLIAPsIgunCA8W94Jn-50" value="数据持久化（MySQL、Redis、S3）" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;sketch=1;curveFitting=1;jiggle=2;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="782.5" y="1040" width="315" height="80" as="geometry" />
         </mxCell>
         <mxCell id="F6DLIAPsIgunCA8W94Jn-52" value="数据双向同步" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" parent="1" vertex="1">
@@ -153,19 +153,19 @@
             <mxPoint x="939.5" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TgFwjFaZ1kg0cYab_2zA-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;shadow=1;" edge="1" parent="1">
+        <mxCell id="TgFwjFaZ1kg0cYab_2zA-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;shadow=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="640" y="170" as="sourcePoint" />
             <mxPoint x="639.5" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TgFwjFaZ1kg0cYab_2zA-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;shadow=1;" edge="1" parent="1">
+        <mxCell id="TgFwjFaZ1kg0cYab_2zA-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;shadow=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="340" y="970" as="sourcePoint" />
             <mxPoint x="339.5" y="1030" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TgFwjFaZ1kg0cYab_2zA-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;shadow=1;" edge="1" parent="1">
+        <mxCell id="TgFwjFaZ1kg0cYab_2zA-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;shadow=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="940" y="970" as="sourcePoint" />
             <mxPoint x="939.5" y="1030" as="targetPoint" />
